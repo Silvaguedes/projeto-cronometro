@@ -1,1 +1,2 @@
 UM SIMPLES CRONÔMETRO, PARA TESTAR O jS.
+Aqui foi usado a tecnologia RESPONSIVIDADE.
